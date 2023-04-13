@@ -23,7 +23,7 @@
     "chai": "^4.3.4",
     "chai-json-schema": "^1.5.1",
     "mocha": "^8.3.2",
-    "sails": "~1.4.2"
+    "sails": "~1.5.4"
   },
   "author": "Panagis Tselentis",
   "license": "MIT"
